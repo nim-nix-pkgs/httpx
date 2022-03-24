@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "v0_1_8",
-        "lastModified": 1648110664,
-        "narHash": "sha256-qWYqzZI64QeTle5vMsYNi70Dh3SVSG7EJZIpu4ydOX4=",
+        "lastModified": 1648164688,
+        "narHash": "sha256-XTzIBJQSAk0MteYuKKsNO3lQN72dMr1z3RfgKYTBi28=",
         "owner": "nim-nix-pkgs",
         "repo": "ioselectors",
-        "rev": "6ccbcdaa6bf3fe0e967566fcea01c11075c167b9",
+        "rev": "3b9fbba398e2c07c4cf4513aad025e4ed4e7ed7b",
         "type": "github"
       },
       "original": {
@@ -133,11 +133,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1648108234,
-        "narHash": "sha256-fTuQoJyvYNiJQNhtvgMoOpzBzkNdQ3xx5W4zrqTcPK4=",
+        "lastModified": 1648163756,
+        "narHash": "sha256-MApgyWe08yHnVXaBZ0IpjVFNvYxd3TxIwYnhUSSaiEQ=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "92eab970feae8afbfdfffbd24796dcf6b4e91942",
+        "rev": "19586e0d6bb7eb572e5c4e18436fdd8feaa6fa6e",
         "type": "github"
       },
       "original": {

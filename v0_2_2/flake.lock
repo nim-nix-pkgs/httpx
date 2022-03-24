@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647920574,
-        "narHash": "sha256-D3ob5QykELhyNcTnISOkjEzLlgXltwON8Ucrz5cpiQI=",
+        "lastModified": 1648105061,
+        "narHash": "sha256-Je25qNlH4xrH3+m6vIq6yPvdfQ80FRTwX4JOhrRLduc=",
         "owner": "riinr",
         "repo": "nim-flakes-lib",
-        "rev": "bfb46a1f762002f07f9d81d93dacd544c6890623",
+        "rev": "f1ec5e2f15b9f717c33b6942ce7cb344ff868522",
         "type": "github"
       },
       "original": {
@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "v0_1_8",
-        "lastModified": 1648005237,
-        "narHash": "sha256-/r1W1WlzOIyppkSmn4MvMSW2qsPKdLoop/GZuXADKKI=",
+        "lastModified": 1648110664,
+        "narHash": "sha256-qWYqzZI64QeTle5vMsYNi70Dh3SVSG7EJZIpu4ydOX4=",
         "owner": "nim-nix-pkgs",
         "repo": "ioselectors",
-        "rev": "aaeebd56de38d86961577285e12db0b87e7ebae4",
+        "rev": "6ccbcdaa6bf3fe0e967566fcea01c11075c167b9",
         "type": "github"
       },
       "original": {
@@ -133,11 +133,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1647935065,
-        "narHash": "sha256-+1hO2BEJ+6k4CvtVVLhQbkI5Yu3il/TOsLjmIxeWnVM=",
+        "lastModified": 1648108234,
+        "narHash": "sha256-fTuQoJyvYNiJQNhtvgMoOpzBzkNdQ3xx5W4zrqTcPK4=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "d08414e41ac1c9359f4674426b847743680be0fb",
+        "rev": "92eab970feae8afbfdfffbd24796dcf6b4e91942",
         "type": "github"
       },
       "original": {

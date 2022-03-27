@@ -11,6 +11,7 @@
   inputs.src-httpx-master.ref   = "refs/heads/master";
   inputs.src-httpx-master.owner = "xflywind";
   inputs.src-httpx-master.repo  = "httpx";
+  inputs.src-httpx-master.dir   = "";
   inputs.src-httpx-master.type  = "github";
   
   inputs."ioselectors".owner = "nim-nix-pkgs";

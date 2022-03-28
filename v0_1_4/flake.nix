@@ -11,7 +11,6 @@
   inputs.src-httpx-v0_1_4.ref   = "refs/tags/v0.1.4";
   inputs.src-httpx-v0_1_4.owner = "xflywind";
   inputs.src-httpx-v0_1_4.repo  = "httpx";
-  inputs.src-httpx-v0_1_4.dir   = "";
   inputs.src-httpx-v0_1_4.type  = "github";
   
   inputs."ioselectors".owner = "nim-nix-pkgs";

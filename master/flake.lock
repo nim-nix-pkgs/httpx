@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "v0_1_8",
-        "lastModified": 1648272986,
-        "narHash": "sha256-2hkA/k8uESMz2PQgb+yPE2ijcM+44qIupHu/3h3SmG0=",
+        "lastModified": 1650756099,
+        "narHash": "sha256-ntbOU1FH/T40XwlXLNbs6WqJsZxw1xxSxzwaWh8H63o=",
         "owner": "nim-nix-pkgs",
         "repo": "ioselectors",
-        "rev": "d555d111cf6f23b3ba2a989b4e4bc303ff8e12d7",
+        "rev": "ac99b1734ebdb0231f5133574ec0f359a748ca1b",
         "type": "github"
       },
       "original": {

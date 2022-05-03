@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "v0_1_8",
-        "lastModified": 1650756099,
-        "narHash": "sha256-ntbOU1FH/T40XwlXLNbs6WqJsZxw1xxSxzwaWh8H63o=",
+        "lastModified": 1651589735,
+        "narHash": "sha256-btR+6QlbIVmcIRes1Se4EuysTcrsmexUNd1GmuIjYHI=",
         "owner": "nim-nix-pkgs",
         "repo": "ioselectors",
-        "rev": "ac99b1734ebdb0231f5133574ec0f359a748ca1b",
+        "rev": "213de136201af86e60aeae626b3474a620a75644",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {

@@ -233,10 +233,10 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "ioselectors": "ioselectors",
         "nixpkgs": "nixpkgs_2",
-        "src-httpx-master": "src-httpx-master"
+        "src-httpx-v0_3_4": "src-httpx-v0_3_4"
       }
     },
-    "src-httpx-master": {
+    "src-httpx-v0_3_4": {
       "flake": false,
       "locked": {
         "lastModified": 1669358688,
@@ -248,7 +248,7 @@
       },
       "original": {
         "owner": "ringabout",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.3.4",
         "repo": "httpx",
         "type": "github"
       }
